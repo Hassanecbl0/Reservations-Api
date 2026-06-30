@@ -1,0 +1,71 @@
+{
+  "trajets": [
+    {
+      "id": "T001",
+      "depart": "Ouagadougou",
+      "arrivee": "Bobo-Dioulasso",
+      "date": "2026-07-01",
+      "heure": "06:00",
+      "prix": 5000,
+      "places_total": 40,
+      "places_disponibles": 12,
+      "bus": "BUS-A1"
+    },
+    {
+      "id": "T002",
+      "depart": "Ouagadougou",
+      "arrivee": "Bobo-Dioulasso",
+      "date": "2026-07-01",
+      "heure": "10:00",
+      "prix": 5000,
+      "places_total": 40,
+      "places_disponibles": 28,
+      "bus": "BUS-A2"
+    },
+    {
+      "id": "T003",
+      "depart": "Ouagadougou",
+      "arrivee": "Koudougou",
+      "date": "2026-07-01",
+      "heure": "07:30",
+      "prix": 2500,
+      "places_total": 35,
+      "places_disponibles": 5,
+      "bus": "BUS-B1"
+    },
+    {
+      "id": "T004",
+      "depart": "Ouagadougou",
+      "arrivee": "Ouahigouya",
+      "date": "2026-07-01",
+      "heure": "08:00",
+      "prix": 3500,
+      "places_total": 35,
+      "places_disponibles": 20,
+      "bus": "BUS-C1"
+    },
+    {
+      "id": "T005",
+      "depart": "Bobo-Dioulasso",
+      "arrivee": "Ouagadougou",
+      "date": "2026-07-01",
+      "heure": "06:00",
+      "prix": 5000,
+      "places_total": 40,
+      "places_disponibles": 15,
+      "bus": "BUS-A3"
+    },
+    {
+      "id": "T006",
+      "depart": "Bobo-Dioulasso",
+      "arrivee": "Ouagadougou",
+      "date": "2026-07-01",
+      "heure": "14:00",
+      "prix": 5000,
+      "places_total": 40,
+      "places_disponibles": 33,
+      "bus": "BUS-A4"
+    }
+  ],
+  "reservations": []
+}
